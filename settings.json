@@ -69,9 +69,10 @@
     "auto-eat": true
   },
   "beds": {
+    "sleep-night": true,
     "pick-up-day": true,
     "place-night": true
-  },
+}
   "discord": {
     "enabled": false,
     "webhookUrl": "",
